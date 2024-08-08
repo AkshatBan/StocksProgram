@@ -5,8 +5,8 @@ import time
 import datetime
 from datetime import date
 
-apikey = "YPK4UIOTX8R1RL17" # Alpha Vantage API Key
-filepath = "" # Example filepath for Akshat's computer "/Users/akshatbansal/Desktop/Stocks.csv"
+apikey = "" # Alpha Vantage API Key
+filepath = ""
 
 """
 Helper method, returns contents of csv file
